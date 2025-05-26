@@ -6,8 +6,8 @@ export default defineConfig({
   extensionApi: "chrome",
   modules: ["@wxt-dev/module-react"],
   manifest: {
-    name: "Command Palette",
-    description: "A command palette to quickly perform actions",
+    name: "BJG Chrome Extension Template",
+    description: "chrome-ext with popup, sidepanel, and hidden dialog panel",
     permissions: ["storage"],
     optional_permissions: ["bookmarks"],
     commands: {

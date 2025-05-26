@@ -1,6 +1,6 @@
 {
-  "name": "command-palette",
-  "description": "A command palette for your browser",
+  "name": "bjg-chrome-ext",
+  "description": "A Chrome extension template using WXT, React, and Shadcn UI",
   "private": true,
   "version": "0.0.1",
   "type": "module",
